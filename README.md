@@ -5,7 +5,7 @@
 Welcome to my Github profile.
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/tardis07/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Tardis07&color=blueviolet&style=for-the-badge&abbreviated=true)
 <div align="center">
 <!-- light mode -->
 <a href="https://github.com/tardis07#gh-light-mode-only">
